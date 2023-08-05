@@ -1,0 +1,28 @@
+====== Foodies Fave Food Center ======
+ 
+
+Session   ---->   Start: 26/07/2023 12:17:59
+                    End: 26/07/2023 12:18:13
+
+====== Cashier Queue status with customer details (With actual customer position) ======
+
+Cashier 1:
+Queue is empty at this stage
+
+Cashier 2:
+
+         Customer 1: [Customer Name='gsdgs gseg', Order Amount=2]
+Cashier 3:
+Queue is empty at this stage
+
+Total number of served customers: 1
+Number of burgers served: 2
+Price of a burger: 650.0 LKR
+
+=== Expected Queue Income ===
+
+Queue 1: 1300.0 LKR
+Queue 2: 0.0 LKR
+Queue 3: 0.0 LKR
+
+Burger Stock: 48

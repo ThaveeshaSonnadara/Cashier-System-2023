@@ -1,0 +1,46 @@
+.backgroundPane {
+    -fx-background-image: url("burger-blue-background.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+.title {
+    -fx-background-color: rgba(255, 255, 255, 0.1);
+}
+.btn {
+    -fx-background-color: #f0f0f0;
+    -fx-text-fill: #111111;
+}
+.btn:hover {
+    -fx-background-color:#111111;
+    -fx-text-fill: #f0f0f0;
+}
+.backgroundScene {
+    -fx-background-image: url("burger-blue-background.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+.backdropContainer {
+    -fx-background-color: rgba(255, 255, 255, 0.5);
+}
+.searchBtn {
+    -fx-background-image: url("find-white.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+
+    -fx-background-size: 22px;
+}
+.searchBtn:hover {
+    -fx-background-color:#111111;
+}
+.backToHomeBtn {
+    -fx-background-image: url("back.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+
+    -fx-background-size: 22px;
+}
+.backToHomeBtn:hover {
+    -fx-background-color:#111111;
+}
